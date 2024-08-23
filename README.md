@@ -1,1 +1,1 @@
-# mohnishdutt-Image-Processing-and-3D-Stereology-Using-Python
+# Image-Processing-and-3D-Stereology-Using-Python
